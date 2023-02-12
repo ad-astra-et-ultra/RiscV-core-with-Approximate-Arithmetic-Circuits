@@ -13,7 +13,7 @@ sub-modules that are used and their interaction with each other are shown in the
 
 ![Screenshot (84)](https://user-images.githubusercontent.com/92263062/218335508-66a91103-c373-4507-9ec1-9ac255e33aea.png)
 
-## Simulation Results snapshot
+## Simulation Results
 
 ![Screenshot (83)](https://user-images.githubusercontent.com/92263062/218335261-af35d574-7c4f-4031-a75b-65fe08cd649c.png)
 
