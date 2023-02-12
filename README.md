@@ -19,4 +19,6 @@ sub-modules that are used and their interaction with each other are shown in the
 
 ## Heatmap of the absolute relative error produced by the approximate adder
 
+Each sqaure represents difference of the results obtained by the exact and approximate processor models when both the models add the same two numbers. The intensity of the colour signifies magnitude of the error.
+
 ![Screenshot (77)](https://user-images.githubusercontent.com/92263062/218334557-6d213076-03ed-4621-a573-35768af7d513.png)
