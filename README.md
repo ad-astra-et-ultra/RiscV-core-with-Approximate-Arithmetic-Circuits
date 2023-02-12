@@ -9,10 +9,14 @@ sub-modules that are used and their interaction with each other are shown in the
 
 ![Screenshot (82)](https://user-images.githubusercontent.com/92263062/218332253-1fdd301b-46d5-49ff-b189-aa46b0f897f3.png)
 
+## Final Datapath of the processors
+
+![Screenshot (84)](https://user-images.githubusercontent.com/92263062/218335508-66a91103-c373-4507-9ec1-9ac255e33aea.png)
+
 ## Simulation Results snapshot
 
 ![Screenshot (83)](https://user-images.githubusercontent.com/92263062/218335261-af35d574-7c4f-4031-a75b-65fe08cd649c.png)
 
-## Heatmap of the absolute error produced by the approximate adder
+## Heatmap of the absolute relative error produced by the approximate adder
 
 ![Screenshot (77)](https://user-images.githubusercontent.com/92263062/218334557-6d213076-03ed-4621-a573-35768af7d513.png)
