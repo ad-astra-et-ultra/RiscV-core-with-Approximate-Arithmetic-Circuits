@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        #graph{
+            flex-wrap: wrap;
+            display: flex;
+        }
+        #graph div{
+            height: 24px;
+            width: 24px;
+            background-color: black;
+            border: 1px solid white;
+        }
+        #legend{
+            width: 400px;
+            margin: 20px;
+        }
+        #legend #bar{
+            height: 20px;
+            width: 400px;
+        }
+        #val{
+            display: flex;
+            justify-content: space-between;
+        }
+    </style>
+</head>
+<body>
+    <div id="graph"></div>
+    <div id="legend">
+        <div id="bar"></div>
+        <div id="val">
+            <div id="val1"></div>
+            <div id="val2"></div>
+            <div id="val3"></div>
+        </div>
+    </div>
+    <input type="file" name="file" id="file" multiple>
+    <script src="script.js"></script>  
+</body>
+</html>
